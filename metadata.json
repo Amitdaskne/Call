@@ -1,0 +1,6 @@
+{
+  "name": "Live Call",
+  "description": "A high-fidelity, mobile-friendly live video and voice calling application with WebRTC peer-to-peer rooms and an interactive Gemini AI Voice Companion.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
